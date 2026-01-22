@@ -447,6 +447,6 @@ This book is part of a comprehensive series for mastering modern software develo
 
 **Web Track**
 
-- [Web Development Step by Step: Building Business Solutions with AI](https://michaelborck-books.github.io/web-dev-step-by-ste-ai) - HTML, CSS, JavaScript, WordPress, React
+- [Web Development Step by Step: Building Business Solutions with AI](https://michaelborck-books.github.io/web-dev-step-by-step-ai) - HTML, CSS, JavaScript, WordPress, React
 
 In Part 2, we'll build on this foundation by exploring robust dependency management, code quality tools, testing strategies, and type checking—the next layers in our Python development pipeline.
