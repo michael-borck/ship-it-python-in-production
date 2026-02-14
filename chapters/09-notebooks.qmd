@@ -214,8 +214,8 @@ notebook.ipynb → Python package + docs + tests
 ```
 
 ::: {.callout-note}
-## nbdev Could Be Its Own Chapter
-We could dedicate an entire chapter to nbdev—it's a complete development workflow. But since we've already covered packaging and PyPI distribution (@sec-distribution), think of nbdev as an **alternative path to the same destination**. Instead of writing `.py` files and separate docs, you write notebooks that generate both. The end result—a published package—is the same.
+## See It In Action
+We dedicate @sec-notebook-case-study to building a complete package with nbdev—TextKit, a text analysis library. That case study parallels the SimpleBot chapter (@sec-case-study) but follows the notebook-first workflow. Think of nbdev as an **alternative path to the same destination**: instead of writing `.py` files and separate docs, you write notebooks that generate both. The end result—a published package—is the same.
 :::
 
 **The nbdev philosophy:**
@@ -371,6 +371,8 @@ Or use nbdev to keep working in notebooks while generating proper packages.
 - Multiple tools exist to share, execute, and transform notebooks
 - Choose based on your audience: viewers, runners, or users
 - Know when to graduate to scripts (or use nbdev to avoid the choice)
+
+**Next**: In @sec-notebook-case-study, we'll build TextKit—a complete Python package developed entirely in notebooks using nbdev.
 
 ## Exercises
 

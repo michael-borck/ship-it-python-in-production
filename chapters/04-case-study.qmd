@@ -18,6 +18,11 @@ This project is ideal for our case study because:
 
 Let's see how we can develop this project using our Python development pipeline.
 
+::: {.callout-tip}
+## Prefer Notebooks?
+If you develop primarily in Jupyter notebooks, see @sec-notebook-case-study for a parallel case study that builds TextKit using nbdev—same destination (published package), different workflow.
+:::
+
 ## 1. Setting the Foundation
 
 ### Project Structure
