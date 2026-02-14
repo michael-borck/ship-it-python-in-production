@@ -9,6 +9,7 @@ book:
   date: "last-modified"
   chapters:
     - index.qmd
+    - copyright.qmd
     - chapters/01-foundation.qmd
     - chapters/02-workflow.qmd
     - chapters/03-documentation.qmd
@@ -20,6 +21,7 @@ book:
     - chapters/10-notebook-case-study.ipynb
     - chapters/07-conclusion.qmd
     - acknowledgments.qmd
+    - about-author.qmd
   appendices:
     - appendices/glossary.qmd
     - appendices/distribution-templates.qmd

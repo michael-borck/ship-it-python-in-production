@@ -116,4 +116,24 @@ This guide is part of a 5-book series designed to help you master modern softwar
 
 **Book Progression**: Start with "Think Python, Direct AI" if you're a complete beginner, or jump into "Code Python, Consult AI" if you want a more focused approach to Python fundamentals. Both books prepare you for the production-focused content in "Ship Python, Orchestrate AI." For web development, see "Build Web, Guide AI." The methodology from "Conversation, Not Delegation" enhances all your development work.
 
+## Source Code & Feedback
+
+**Source Code**
+All code examples, templates, and supplementary materials are available at:
+
+- **This book's repository**: https://github.com/michael-borck/ship-python-orchestrate-ai
+- **Cookiecutter template**: `cookiecutter gh:michael-borck/ship-python-cookiecutter`
+- **GitHub template**: https://github.com/michael-borck/ship-python-template
+- **Example project**: https://github.com/michael-borck/ship-python-example
+
+**Feedback and Errata**
+Found an error? Have a suggestion? We welcome your feedback:
+
+- Open an issue: https://github.com/michael-borck/ship-python-orchestrate-ai/issues
+- Email: michael@borck.me
+
+Your input helps improve this book for future readers.
+
+---
+
 Let's begin by setting up a solid foundation for your Python projects.
