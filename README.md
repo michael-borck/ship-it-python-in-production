@@ -1,5 +1,9 @@
 # Ship Python, Orchestrate AI
 
+<!-- BADGES:START -->
+[![continuous-integration](https://img.shields.io/badge/-continuous--integration-blue?style=flat-square)](https://github.com/topics/continuous-integration) [![dependency-management](https://img.shields.io/badge/-dependency--management-blue?style=flat-square)](https://github.com/topics/dependency-management) [![documentation](https://img.shields.io/badge/-documentation-blue?style=flat-square)](https://github.com/topics/documentation) [![github-pages](https://img.shields.io/badge/-github--pages-blue?style=flat-square)](https://github.com/topics/github-pages) [![packaging](https://img.shields.io/badge/-packaging-blue?style=flat-square)](https://github.com/topics/packaging) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![software-development](https://img.shields.io/badge/-software--development-blue?style=flat-square)](https://github.com/topics/software-development) [![static-analysis](https://img.shields.io/badge/-static--analysis-blue?style=flat-square)](https://github.com/topics/static-analysis) [![testing](https://img.shields.io/badge/-testing-blue?style=flat-square)](https://github.com/topics/testing) [![tex](https://img.shields.io/badge/-tex-blue?style=flat-square)](https://github.com/topics/tex)
+<!-- BADGES:END -->
+
 This repository contains the source for the book "Ship Python, Orchestrate AI: Professional Python in the AI Era" - a comprehensive guide to professional Python development practices.
 
 ## About the Book
