@@ -32,7 +32,7 @@ The rendered book is available at: https://michael-borck.github.io/ship-python-o
 This book is part of a 5-book series for mastering modern software development in the AI era:
 
 ### Foundational Methodology
-- **[Conversation, Not Delegation: Mastering Human-AI Development](https://michael-borck.github.io/conversation-not-delegation)** - A methodology for effective AI collaboration
+- **[Converse Python, Partner AI: The Python Edition](https://michael-borck.github.io/converse-python-partner-ai)** - A methodology for effective AI collaboration
 
 ### Python Track
 - **[Think Python, Direct AI: Computational Thinking for Beginners](https://michael-borck.github.io/think-python-direct-ai)** - Perfect for absolute beginners
